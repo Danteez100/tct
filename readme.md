@@ -51,6 +51,7 @@ ie
 ```bash
 bash <(curl -s https://i-tct.com/dl/vps)
 ```
+- OR *Click*  [here ](https://i-tct.com/vps/)
 ---
 
 ### 🪟 Deploy on Windows
